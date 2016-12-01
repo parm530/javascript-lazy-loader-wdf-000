@@ -7,6 +7,7 @@ gem 'rake'
 gem 'require_all'
 gem 'pry'
 gem 'shotgun'
+gem "chromedriver-helper", "1.0.0"
 
 group :test do
   gem 'rspec'
